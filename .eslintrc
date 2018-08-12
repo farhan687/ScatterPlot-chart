@@ -6,6 +6,10 @@
     "es6": true,
     "jest": true
   },
+  "globals": {
+    "fixture": true,
+    "test": true
+  },
   "rules": {
     "react/forbid-prop-types": 0,
     "react/jsx-filename-extension": 0
