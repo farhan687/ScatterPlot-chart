@@ -26,3 +26,6 @@ It will open browser tab automatically on port `3000`
 
 ### Server
 - I am using **node-express** server here and `server/app.js` contains the server side code.
+
+
+- Testing
